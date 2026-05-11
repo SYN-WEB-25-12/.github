@@ -2,3 +2,4 @@
 
 - [JavaScript Grundlagen (Woche 1)](https://github.com/SYN-WEB-25-12/js-grundlagen)
   - [Wiederholung Rezepte](https://github.com/SYN-WEB-25-12/js-wiederholung-rezepte)
+- [JS Woche 21](https://github.com/SYN-WEB-25-12/js-woche-2)
